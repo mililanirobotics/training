@@ -1,1 +1,2 @@
 changed newfile
+add one line
